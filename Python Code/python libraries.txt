@@ -1,0 +1,14 @@
+Python Packages
+
+numpy
+scipy
+matplotlib
+pandas
+pint
+CoolProp
+gym
+stable-baselines3
+torch
+slycot
+control
+opencv

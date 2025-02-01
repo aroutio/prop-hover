@@ -1,0 +1,12 @@
+Accelerometers Calibration
+--------------------------
+X: Scale= 0.1, Offset= 0.30
+Y: Scale= 0.1, Offset= 0.07
+Z: Scale= 0.1, Offset= -2.33
+
+Gyro Calibration
+----------------
+X: Offset= -0.03
+Y: Offset= -0.02
+Z: Offset= -0.01
+
